@@ -1,4 +1,4 @@
-from modules.reptile_creators import create_snake
+from modules.reptile_creators.long_reptiles import create_snake
 
 
 def test_create_snake():

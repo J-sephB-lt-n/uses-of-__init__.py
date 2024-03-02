@@ -1,4 +1,4 @@
 # modules/reptile_creators/__init__.py
 
-from .create_chameleon import create_chameleon 
-from .create_snake import create_snake
+from .strange_reptiles import create_chameleon
+from .long_reptiles import create_snake
