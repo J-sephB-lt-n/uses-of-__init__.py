@@ -21,6 +21,11 @@
         └── test_create_snake.py
 ```
 
+Run entry script:
+```bash
+python main.py
+```
+
 Run tests:
 ```bash
 python -m pytest
