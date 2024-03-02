@@ -1,3 +1,4 @@
+```bash
 .
 ├── README.md
 ├── main.py
@@ -18,6 +19,7 @@
     └── reptile_creators
         ├── test_create_chameleon.py
         └── test_create_snake.py
+```
 
 Run tests:
 ```bash
